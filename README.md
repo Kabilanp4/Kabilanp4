@@ -1,15 +1,15 @@
 [![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://your-website-or-profile-url)
 <h1 align="center">Hi 👋, I'm Kabilan P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabilanp4&label=Profile%20views&color=0e75b6&style=flat" alt="kabilanp4" /> </p>
 
 
 - 🔭 I’m currently working on **Insurance Based Projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **react,angular,Web Development,UI Deployment**
+- 💬 Ask me about **react,angular,Web Development**
 
 - 📫 How to reach me **kabilanperumal6@gmail.com**
 
